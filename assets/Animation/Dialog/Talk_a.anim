@@ -1,0 +1,52 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "Talk_a",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 1,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": "2",
+  "curveData": {
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            -3,
+            0
+          ]
+        },
+        {
+          "frame": 0.08333333333333333,
+          "value": [
+            -3,
+            0
+          ]
+        },
+        {
+          "frame": 0.4166666666666667,
+          "value": [
+            -3,
+            5
+          ]
+        },
+        {
+          "frame": 0.75,
+          "value": [
+            -3,
+            0
+          ]
+        },
+        {
+          "frame": 1,
+          "value": [
+            -3,
+            0
+          ]
+        }
+      ]
+    }
+  },
+  "events": []
+}

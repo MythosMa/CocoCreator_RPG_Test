@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "92236894-82ad-4a5d-9fc1-4751d42b46f0",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "sakuya_stand_normal": {
+      "ver": "1.0.3",
+      "uuid": "24f33782-38c5-414c-bad9-492b11b38297",
+      "rawTextureUuid": "92236894-82ad-4a5d-9fc1-4751d42b46f0",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 16.5,
+      "offsetY": -14,
+      "trimX": 70,
+      "trimY": 28,
+      "width": 405,
+      "height": 484,
+      "rawWidth": 512,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

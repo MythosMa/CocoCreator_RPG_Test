@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "30d20bb6-f592-4f8c-8886-4e220c0b7fa5",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Remilia_tex": {
+      "ver": "1.0.3",
+      "uuid": "071b4865-08e6-4bff-a089-6f62bde3e11e",
+      "rawTextureUuid": "30d20bb6-f592-4f8c-8886-4e220c0b7fa5",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -2,
+      "offsetY": 77,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 250,
+      "height": 356,
+      "rawWidth": 256,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
